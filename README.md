@@ -20,7 +20,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-00E5FF?style=for-the-badge&logoColor=black)](https://Saicharan0607.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-reddiee-71264a3b0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-charan-janga2026/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saicharan0607)
 [![Email](https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saicharanreddy0607@gmail.com)
 
@@ -63,6 +63,7 @@ class SaiCharanReddy:
 2021 ──────► PRODUCT COMPANY  │ Spring Boot · Microservices · REST APIs · CI/CD
 2023 ──────► MSCS @ SAU ✅   │ AI · Deep Learning · Agentic Systems · LLMs
           └─► NOW BUILDING    │ AI + Fintech = The Future
+2025 ──────► Healthcare | Integrating AI + Healthcare terminology
 ```
 
 ---
